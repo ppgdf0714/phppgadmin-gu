@@ -15,8 +15,8 @@
 
 	// Hostname or IP address for server.  Use '' for UNIX domain socket.
 	// use 'localhost' for TCP/IP connection on this computer
-	//$conf['servers'][0]['host'] = 'ssd-rds-postpresql-lu.cx3gjigecrjo.ap-northeast-1.rds.amazonaws.com';
-	$conf['servers'][0]['host'] = 'ssd-rds-postpresql.caunxszlefde.ap-northeast-1.rds.amazonaws.com';
+	$conf['servers'][0]['host'] = 'ssd-rds-postpresql-lu.cx3gjigecrjo.ap-northeast-1.rds.amazonaws.com';
+	//$conf['servers'][0]['host'] = 'ssd-rds-postpresql.caunxszlefde.ap-northeast-1.rds.amazonaws.com';
 	
 
 	// Database port on server (5432 is the PostgreSQL default)
