@@ -11,11 +11,11 @@
 	// indexed from zero upwards.
 
 	// Display name for the server on the login screen
-	$conf['servers'][0]['desc'] = 'PostgreSQLlu';
+	$conf['servers'][0]['desc'] = 'PostgreSQLssd';
 
 	// Hostname or IP address for server.  Use '' for UNIX domain socket.
 	// use 'localhost' for TCP/IP connection on this computer
-	$conf['servers'][0]['host'] = 'ssd-rds-postpresql-lu.cx3gjigecrjo.ap-northeast-1.rds.amazonaws.com';
+	$conf['servers'][0]['host'] = 'ssd-rds-postpresql-20210224.cirq1m61pxeb.ap-northeast-1.rds.amazonaws.com';
 	//$conf['servers'][0]['host'] = 'ssd-rds-postpresql.caunxszlefde.ap-northeast-1.rds.amazonaws.com';
 	
 
